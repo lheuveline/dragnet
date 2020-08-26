@@ -106,6 +106,7 @@ setup(
     install_requires=[
         'Cython>=0.21.1',
         'ftfy>=4.1.0,<5.0.0',
+        'joblib',
         'lxml',
         'numpy>=1.11.0',
         'scikit-learn>=0.23.2',
